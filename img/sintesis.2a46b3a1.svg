@@ -1,0 +1,92 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="1229.506" height="687.006" viewBox="0 0 1229.506 687.006">
+  <g id="Grupo_1211738" data-name="Grupo 1211738" transform="translate(-184.494 -468)">
+    <path id="Trazado_991655" data-name="Trazado 991655" d="M10,0H495a10,10,0,0,1,10,10V64a10,10,0,0,1-10,10H10A10,10,0,0,1,0,64V10A10,10,0,0,1,10,0Z" transform="translate(547.549 468)" fill="#1e535a"/>
+    <text id="Análisis_especificación_y_validación_de_requisitos_de_software" data-name="Análisis, especificación y validación de requisitos de software" transform="translate(588.549 478)" fill="#fff" font-size="20" font-family="SegoeUI-Bold, Segoe UI" font-weight="700"><tspan x="32.063" y="22">Análisis, especificación y validación de </tspan><tspan x="108.123" y="46">requisitos de </tspan><tspan y="46" font-family="SegoeUI-BoldItalic, Segoe UI" font-style="italic">software</tspan></text>
+    <path id="Trazado_873465" data-name="Trazado 873465" d="M42.652,0H0V945.909H45.85" transform="translate(1268.926 601.188) rotate(90)" fill="none" stroke="#445866" stroke-width="3"/>
+    <path id="Trazado_873466" data-name="Trazado 873466" d="M0,0V66.361" transform="translate(793.766 601.188) rotate(180)" fill="none" stroke="#445866" stroke-width="3"/>
+    <path id="Trazado_1271531" data-name="Trazado 1271531" d="M0,0V45.85" transform="translate(640.951 645.444) rotate(180)" fill="none" stroke="#445866" stroke-width="3"/>
+    <path id="Trazado_1271533" data-name="Trazado 1271533" d="M0,0V45.85" transform="translate(956 647.037) rotate(180)" fill="none" stroke="#445866" stroke-width="3"/>
+    <rect id="Rectángulo_345699" data-name="Rectángulo 345699" width="292" height="102.345" rx="14" transform="translate(186 645)" fill="#7dbfff"/>
+    <rect id="Rectángulo_459857" data-name="Rectángulo 459857" width="264.321" height="64.006" rx="14" transform="translate(207.549 834)" fill="#dfefff"/>
+    <rect id="Rectángulo_461150" data-name="Rectángulo 461150" width="264.321" height="64.006" rx="14" transform="translate(834.488 834)" fill="#dfefff"/>
+    <rect id="Rectángulo_459862" data-name="Rectángulo 459862" width="264.321" height="64.006" rx="14" transform="translate(522.739 834)" fill="#d5f4f8"/>
+    <rect id="Rectángulo_461151" data-name="Rectángulo 461151" width="264.321" height="64.006" rx="14" transform="translate(1149.679 834)" fill="#d5f4f8"/>
+    <rect id="Rectángulo_459858" data-name="Rectángulo 459858" width="264.321" height="64.006" rx="14" transform="translate(207.859 916.994)" fill="#dfefff"/>
+    <rect id="Rectángulo_461147" data-name="Rectángulo 461147" width="264.321" height="64.006" rx="14" transform="translate(834.799 917)" fill="#dfefff"/>
+    <rect id="Rectángulo_459861" data-name="Rectángulo 459861" width="264.321" height="64.006" rx="14" transform="translate(522.477 917)" fill="#d5f4f8"/>
+    <rect id="Rectángulo_461146" data-name="Rectángulo 461146" width="264.321" height="64.006" rx="14" transform="translate(1149.416 917)" fill="#d5f4f8"/>
+    <rect id="Rectángulo_459859" data-name="Rectángulo 459859" width="264.321" height="64.006" rx="14" transform="translate(207.859 1000.163)" fill="#dfefff"/>
+    <rect id="Rectángulo_461148" data-name="Rectángulo 461148" width="264.321" height="64.006" rx="14" transform="translate(834.799 1000)" fill="#dfefff"/>
+    <rect id="Rectángulo_459894" data-name="Rectángulo 459894" width="264.321" height="64.006" rx="14" transform="translate(207.306 1083)" fill="#dfefff"/>
+    <rect id="Rectángulo_461149" data-name="Rectángulo 461149" width="264.321" height="64.006" rx="14" transform="translate(834.245 1083)" fill="#dfefff"/>
+    <rect id="Rectángulo_459860" data-name="Rectángulo 459860" width="264.321" height="64.006" rx="14" transform="translate(522.38 1000)" fill="#d5f4f8"/>
+    <rect id="Rectángulo_461145" data-name="Rectángulo 461145" width="264.321" height="75.006" rx="14" transform="translate(1149.319 1000)" fill="#d5f4f8"/>
+    <rect id="Rectángulo_461143" data-name="Rectángulo 461143" width="264.321" height="64.006" rx="14" transform="translate(522.38 1083)" fill="#d5f4f8"/>
+    <rect id="Rectángulo_461144" data-name="Rectángulo 461144" width="264.321" height="64.006" rx="14" transform="translate(1149.679 1091)" fill="#d5f4f8"/>
+    <rect id="Rectángulo_455285" data-name="Rectángulo 455285" width="291" height="102.345" rx="14" transform="translate(499 644.547)" fill="#4dd0e1"/>
+    <rect id="Rectángulo_455286" data-name="Rectángulo 455286" width="292" height="102.345" rx="14" transform="translate(810 645)" fill="#7dbfff"/>
+    <rect id="Rectángulo_455287" data-name="Rectángulo 455287" width="292" height="102.345" rx="14" transform="translate(1122 645)" fill="#4dd0e1"/>
+    <text id="Análisis_de_requisitos_de_software_" data-name="Análisis de requisitos
+ de software
+" transform="translate(195.188 674)" fill="#12263f" font-size="16" font-family="SegoeUI-Bold, Segoe UI" font-weight="700"><tspan x="55.429" y="17">Análisis de requisitos</tspan><tspan x="88.324" y="37" xml:space="preserve"> de</tspan><tspan y="37" xml:space="preserve" font-family="SegoeUI-BoldItalic, Segoe UI" font-style="italic"> software</tspan></text>
+    <text id="Técnicas_de_análisis_de_requisitos_" data-name="Técnicas de análisis
+ de requisitos
+" transform="translate(215.549 845)" fill="#12263f" font-size="16" font-family="SegoeUI, Segoe UI" letter-spacing="-0.025em"><tspan x="60.767" y="17">Técnicas de análisis</tspan><tspan x="79.485" y="37" xml:space="preserve"> de requisitos</tspan></text>
+    <text id="Criterios_de_validación_de_requisitos" data-name="Criterios de validación
+ de requisitos" transform="translate(842.488 845)" fill="#12263f" font-size="16" font-family="SegoeUI, Segoe UI" letter-spacing="-0.025em"><tspan x="50.777" y="17">Criterios de validación</tspan><tspan x="79.485" y="37" xml:space="preserve"> de requisitos</tspan></text>
+    <text id="Estándares_internacionales" data-name="Estándares internacionales" transform="translate(530.358 854.991)" fill="#12263f" font-size="16" font-family="SegoeUI, Segoe UI" letter-spacing="-0.025em"><tspan x="36.174" y="17">Estándares internacionales</tspan></text>
+    <text id="Contratos_de_software" data-name="Contratos de software" transform="translate(1157.298 854.991)" fill="#12263f" font-size="16" font-family="SegoeUI, Segoe UI" letter-spacing="-0.025em"><tspan x="-73.02" y="17">Contratos de </tspan><tspan y="17" font-family="SegoeUI-Italic, Segoe UI" font-style="italic">software</tspan></text>
+    <text id="Priorización_de_requisitos_" data-name="Priorización de requisitos
+" transform="translate(215.478 939.16)" fill="#12263f" font-size="16" font-family="SegoeUI, Segoe UI" letter-spacing="-0.025em"><tspan x="40.744" y="17">Priorización de requisitos</tspan></text>
+    <text id="Técnicas_de_validación_de_requisitos" data-name="Técnicas de validación
+ de requisitos" transform="translate(842.417 929)" fill="#12263f" font-size="16" font-family="SegoeUI, Segoe UI" letter-spacing="-0.025em"><tspan x="51.03" y="17">Técnicas de validación</tspan></text>
+    <text id="Plantillas_ERS_Especificación_de_Requisitos_del_Software_" data-name="Plantillas ERS (Especificación de Requisitos del Software)" transform="translate(530.094 928)" fill="#12263f" font-size="16" font-family="SegoeUI, Segoe UI" letter-spacing="-0.025em"><tspan x="17.852" y="17">Plantillas ERS (Especificación de </tspan><tspan x="45.329" y="37">Requisitos del </tspan><tspan y="37" font-family="SegoeUI-Italic, Segoe UI" font-style="italic">Software</tspan><tspan y="37">)</tspan></text>
+    <text id="Herramientas_para_la_gestión_de_requisitos" data-name="Herramientas para la
+ gestión de requisitos" transform="translate(1157.033 928)" fill="#12263f" font-size="16" font-family="SegoeUI, Segoe UI" letter-spacing="-0.025em"><tspan x="55.001" y="17">Herramientas para la</tspan><tspan x="52.741" y="37" xml:space="preserve"> gestión de requisitos</tspan></text>
+    <text id="Matrices_de_trazabilidad_" data-name="Matrices de trazabilidad
+" transform="translate(215.478 1021.329)" fill="#12263f" font-size="16" font-family="SegoeUI, Segoe UI" letter-spacing="-0.025em"><tspan x="44.536" y="17">Matrices de trazabilidad</tspan></text>
+    <text id="Revisiones_auditorías_y_prototipos_" data-name="Revisiones, auditorías 
+y prototipos
+" transform="translate(842.417 1011)" fill="#12263f" font-size="16" font-family="SegoeUI, Segoe UI" letter-spacing="-0.025em"><tspan x="51.254" y="17">Revisiones, auditorías </tspan><tspan x="83.562" y="37">y prototipos</tspan></text>
+    <text id="Descomposición_funcional_" data-name="Descomposición funcional
+" transform="translate(215.385 1105)" fill="#12263f" font-size="16" font-family="SegoeUI, Segoe UI" letter-spacing="-0.025em"><tspan x="36.391" y="17">Descomposición funcional</tspan></text>
+    <text id="Manual_de_usuario_como_mecanismo_de_validación" data-name="Manual de usuario como mecanismo de validación" transform="translate(842.324 1095)" fill="#12263f" font-size="16" font-family="SegoeUI, Segoe UI" letter-spacing="-0.025em"><tspan x="-1.504" y="17">Manual de usuario como mecanismo </tspan></text>
+    <text id="Técnicas_de_documentación_de_requisitos_en_proyectos_tradicionales" data-name="Técnicas de documentación de requisitos en proyectos tradicionales" transform="translate(530.459 1012)" fill="#12263f" font-size="16" font-family="SegoeUI, Segoe UI" letter-spacing="-0.025em"><tspan x="19.708" y="17">Técnicas de documentación de </tspan></text>
+    <text id="Tipos_y_características_de_herramientas_de_gestión_de_requisitos" data-name="Tipos y características de herramientas de gestión de requisitos" transform="translate(1157.398 1007)" fill="#12263f" font-size="16" font-family="SegoeUI, Segoe UI" letter-spacing="-0.025em"><tspan x="40.054" y="17">Tipos y características de </tspan><tspan x="30.862" y="37">herramientas de gestión de </tspan><tspan x="91.962" y="57">requisitos</tspan></text>
+    <text id="Técnicas_de_documentación_de_requisitos_en_proyectos_ágiles" data-name="Técnicas de documentación de requisitos en proyectos ágiles" transform="translate(530.459 1093)" fill="#12263f" font-size="16" font-family="SegoeUI, Segoe UI" letter-spacing="-0.025em"><tspan x="19.708" y="17">Técnicas de documentación de </tspan><tspan x="25.728" y="37">requisitos en proyectos ágiles</tspan></text>
+    <text id="Control_y_gestión_de_cambios_en_los_requisitos" data-name="Control y gestión de cambios en los requisitos" transform="translate(1157.758 1101)" fill="#12263f" font-size="16" font-family="SegoeUI, Segoe UI" letter-spacing="-0.025em"><tspan x="2.776" y="17">Control y gestión de cambios en los </tspan><tspan x="91.962" y="37">requisitos</tspan></text>
+    <text id="Especificación_de_requisitos_de_software" data-name="Especificación de requisitos
+ de software" transform="translate(510.603 675.547)" fill="#12263f" font-size="16" font-family="SegoeUI-Bold, Segoe UI" font-weight="700"><tspan x="31.543" y="17">Especificación de requisitos</tspan><tspan x="88.321" y="37" xml:space="preserve"> de</tspan><tspan y="37" font-family="SegoeUI, Segoe UI" font-weight="400"> </tspan><tspan y="37" font-family="SegoeUI-BoldItalic, Segoe UI" font-style="italic">software</tspan></text>
+    <text id="Validación_de_requisitos_de_software" data-name="Validación de requisitos
+ de software" transform="translate(821.297 675.547)" fill="#12263f" font-size="16" font-family="SegoeUI-Bold, Segoe UI" font-weight="700"><tspan x="45.364" y="17">Validación de requisitos</tspan><tspan x="88.313" y="37" xml:space="preserve"> de</tspan><tspan y="37" font-family="SegoeUI-Italic, Segoe UI" font-weight="400" font-style="italic"> </tspan><tspan y="37" font-family="SegoeUI-BoldItalic, Segoe UI" font-style="italic">software</tspan></text>
+    <text id="Gestión_de_requisitos_en_proyectos_de_software_" data-name="Gestión de requisitos en
+ proyectos de software
+" transform="translate(1134.352 675)" fill="#12263f" font-size="16" font-family="SegoeUI-Bold, Segoe UI" font-weight="700"><tspan x="44.024" y="17">Gestión de requisitos en</tspan><tspan x="49.208" y="37" xml:space="preserve"> proyectos de </tspan><tspan y="37" font-family="SegoeUI-BoldItalic, Segoe UI" font-style="italic">software</tspan></text>
+    <rect id="Rectángulo_401434" data-name="Rectángulo 401434" width="79.559" height="25" transform="translate(753.494 562.826)" fill="#fff"/>
+    <text id="incluye" transform="translate(750.509 564.826)" fill="#12263f" font-size="16" font-family="SegoeUI, Segoe UI" letter-spacing="0.003em"><tspan x="-24.8" y="17">incluye</tspan></text>
+    <path id="Trazado_998198" data-name="Trazado 998198" d="M-13723.752-7588.487l-1.012,72.628h-133.586l1.16,299.528h20.7" transform="translate(14044.35 8335.379)" fill="none" stroke="#445866" stroke-width="3"/>
+    <path id="Trazado_1275222" data-name="Trazado 1275222" d="M-13723.752-7588.487l-1.012,72.628h-133.586l1.16,299.528h20.7" transform="translate(14671.289 8335.379)" fill="none" stroke="#445866" stroke-width="3"/>
+    <path id="Trazado_1271503" data-name="Trazado 1271503" d="M-13718.016-7588.713v72.854h-140.334l2.387,296.362h21.738" transform="translate(14358.967 8335.38)" fill="none" stroke="#445866" stroke-width="3"/>
+    <path id="Trazado_1275218" data-name="Trazado 1275218" d="M-13718.016-7580.713v64.854h-140.334l2.387,304.362h21.738" transform="translate(14985.906 8335.38)" fill="none" stroke="#445866" stroke-width="3"/>
+    <rect id="Rectángulo_401432" data-name="Rectángulo 401432" width="203.148" height="23" transform="translate(221.443 765)" fill="#fff"/>
+    <rect id="Rectángulo_459873" data-name="Rectángulo 459873" width="203.148" height="23" transform="translate(1178.559 764.826)" fill="#fff"/>
+    <rect id="Rectángulo_459863" data-name="Rectángulo 459863" width="203.148" height="23" transform="translate(536.79 764.826)" fill="#fff"/>
+    <rect id="Rectángulo_459869" data-name="Rectángulo 459869" width="203.148" height="23" transform="translate(851.592 764.826)" fill="#fff"/>
+    <text id="comprende" transform="translate(211.549 767)" fill="#12263f" font-size="16" font-family="SegoeUI, Segoe UI" letter-spacing="0.003em"><tspan x="-40.523" y="17">comprende</tspan></text>
+    <text id="contiene" transform="translate(1156.568 766.826)" fill="#12263f" font-size="16" font-family="SegoeUI, Segoe UI" letter-spacing="0.003em"><tspan x="-30.593" y="17">contiene</tspan></text>
+    <text id="consta" transform="translate(530.161 766.826)" fill="#12263f" font-size="16" font-family="SegoeUI, Segoe UI" letter-spacing="0.003em"><tspan x="-23.186" y="17">consta</tspan></text>
+    <text id="describe" transform="translate(857.651 766.826)" fill="#12263f" font-size="16" font-family="SegoeUI, Segoe UI" letter-spacing="0.003em"><tspan x="-29.73" y="17">describe</tspan></text>
+    <path id="Trazado_1267489" data-name="Trazado 1267489" d="M-12474.334-9466.749h22.979" transform="translate(12660.486 10332.575)" fill="none" stroke="#445866" stroke-width="3"/>
+    <path id="Trazado_1275223" data-name="Trazado 1275223" d="M-12474.334-9466.749h22.979" transform="translate(13287.426 10332.575)" fill="none" stroke="#445866" stroke-width="3"/>
+    <path id="Trazado_1271504" data-name="Trazado 1271504" d="M-12474.334-9466.749h22.979" transform="translate(12975.103 10332.575)" fill="none" stroke="#445866" stroke-width="3"/>
+    <path id="Trazado_1275221" data-name="Trazado 1275221" d="M-12474.334-9466.749h22.979" transform="translate(13602.042 10332.575)" fill="none" stroke="#445866" stroke-width="3"/>
+    <path id="Trazado_1267490" data-name="Trazado 1267490" d="M-12474.334-9466.749h22.979" transform="translate(12660.486 10416.575)" fill="none" stroke="#445866" stroke-width="3"/>
+    <path id="Trazado_1275224" data-name="Trazado 1275224" d="M-12474.334-9466.749h22.979" transform="translate(13287.426 10416.575)" fill="none" stroke="#445866" stroke-width="3"/>
+    <path id="Trazado_1271534" data-name="Trazado 1271534" d="M-12474.334-9466.749h22.979" transform="translate(12660.486 10497.938)" fill="none" stroke="#445866" stroke-width="3"/>
+    <path id="Trazado_1275225" data-name="Trazado 1275225" d="M-12474.334-9466.749h22.979" transform="translate(13287.426 10497.938)" fill="none" stroke="#445866" stroke-width="3"/>
+    <path id="Trazado_1271505" data-name="Trazado 1271505" d="M-12474.334-9466.749h22.979" transform="translate(12975.103 10416.575)" fill="none" stroke="#445866" stroke-width="3"/>
+    <path id="Trazado_1275219" data-name="Trazado 1275219" d="M-12474.334-9466.749h22.979" transform="translate(13602.042 10416.575)" fill="none" stroke="#445866" stroke-width="3"/>
+    <path id="Trazado_1275217" data-name="Trazado 1275217" d="M-12474.334-9466.749h22.979" transform="translate(12975.103 10497.938)" fill="none" stroke="#445866" stroke-width="3"/>
+    <path id="Trazado_1275220" data-name="Trazado 1275220" d="M-12474.334-9466.749h22.979" transform="translate(13602.042 10497.938)" fill="none" stroke="#445866" stroke-width="3"/>
+  </g>
+</svg>

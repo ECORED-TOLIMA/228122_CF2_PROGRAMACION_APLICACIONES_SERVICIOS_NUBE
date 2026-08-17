@@ -11,7 +11,7 @@
     .row.justify-content-center.mb-4
       .col.col-lg-4.col-8.col-md-6.order-lg-1.order-1.mb-3.mb-lg-0
         figure
-          img(src='@/assets/curso/intro/img01.svg', alt='Imagen decorativa')
+          img(src='@/assets/curso/intro/img01.svg')
       .col.col-lg-8.col-12.order-lg-2.order-2
         .cajon.cajon.C01.color-primario.px-4.py-3.mb-3
           p.mb-0(data-aos="fade-down") Este componente formativo aborda las técnicas utilizadas para analizar requisitos, incluyendo la priorización, las matrices de trazabilidad y la descomposición funcional, herramientas que permiten organizar y comprender de manera estructurada las funcionalidades del sistema. Asimismo, se presentan los fundamentos para la especificación de requisitos, considerando estándares internacionales y el uso de plantillas de Especificación de Requisitos del <em>software</em> (ERS), junto con técnicas de documentación aplicadas tanto en metodologías tradicionales como en enfoques ágiles.
@@ -19,7 +19,7 @@
         .row.mb-4
           .col-lg-2.d-none.d-lg-block
             figure
-              img(src='@/assets/curso/intro/img02.svg', alt='Imagen decorativa')
+              img(src='@/assets/curso/intro/img02.svg')
           .col-lg-10.col-12
             .cajon.cajon.C03.px-4.py-3
               p.mb-0 El estudio de estos elementos permite fortalecer la calidad del proceso de desarrollo, mejorar la comunicación entre los actores del proyecto y reducir riesgos asociados a requisitos incompletos o mal definidos.

@@ -34,54 +34,54 @@
     p.mb-4(data-aos="fade-down") Entre los criterios más utilizados para validar requisitos de <em>software</em> se encuentran los siguientes:
     .row.justify-content-center.align-items-center.mb-4(data-aos="flip-up")
       SlyderF.color-acento-botones(columnas="col-lg-6 col-xl-4")
-        .tarjeta.tarjeta--C02.p-4
+        .tarjeta.bg-02.p-4
           .row.justify-content-center.mb-3
             .col-lg-6.col-sm-4.col-6
-              img(src='@/assets/curso/tema3/img04.svg' alt='AvatarTop')
+              img(src='@/assets/curso/tema3/img04.svg' )
           h4.text-center Claridad
-          p Un requisito debe estar redactado de forma comprensible, evitando ambigüedades o interpretaciones múltiples. Todas las personas involucradas en el proyecto deben poder entenderlo de la misma manera.
-        .tarjeta.tarjeta--C02.p-4
+          p.text-center Un requisito debe estar redactado de forma comprensible, evitando ambigüedades o interpretaciones múltiples. Todas las personas involucradas en el proyecto deben poder entenderlo de la misma manera.
+        .tarjeta.bg-02.p-4
           .row.justify-content-center.mb-3
             .col-lg-6.col-sm-4.col-6
-              img(src='@/assets/curso/tema3/img05.svg' alt='AvatarTop')
+              img(src='@/assets/curso/tema3/img05.svg' )
           h4.text-center Viabilidad o factibilidad
-          p El requisito debe poder implementarse con los recursos, tecnologías, tiempo y presupuesto disponibles para el proyecto.
-        .tarjeta.tarjeta--C02.p-4
+          p.text-center El requisito debe poder implementarse con los recursos, tecnologías, tiempo y presupuesto disponibles para el proyecto.
+        .tarjeta.bg-02.p-4
           .row.justify-content-center.mb-3
             .col-lg-6.col-sm-4.col-6
-              img(src='@/assets/curso/tema3/img06.svg' alt='AvatarTop')
+              img(src='@/assets/curso/tema3/img06.svg' )
           h4.text-center Completitud
-          p El requisito debe contener toda la información necesaria para describir la funcionalidad o característica del sistema. Esto incluye condiciones, restricciones y comportamientos esperados.
-        .tarjeta.tarjeta--C02.p-4
+          p.text-center El requisito debe contener toda la información necesaria para describir la funcionalidad o característica del sistema. Esto incluye condiciones, restricciones y comportamientos esperados.
+        .tarjeta.bg-02.p-4
           .row.justify-content-center.mb-3
             .col-lg-6.col-sm-4.col-6
-              img(src='@/assets/curso/tema3/img07.svg' alt='AvatarTop')
+              img(src='@/assets/curso/tema3/img07.svg' )
           h4.text-center Verificabilidad
-          p El requisito debe formularse de manera que sea posible comprobar su cumplimiento mediante pruebas, revisiones o demostraciones del sistema.
-        .tarjeta.tarjeta--C02.p-4
+          p.text-center El requisito debe formularse de manera que sea posible comprobar su cumplimiento mediante pruebas, revisiones o demostraciones del sistema.
+        .tarjeta.bg-02.p-4
           .row.justify-content-center.mb-3
             .col-lg-6.col-sm-4.col-6
-              img(src='@/assets/curso/tema3/img08.svg' alt='AvatarTop')
+              img(src='@/assets/curso/tema3/img08.svg' )
           h4.text-center Consistencia
-          p Los requisitos no deben contradecirse entre sí. Cada requisito debe ser coherente con los demás y con los objetivos generales del sistema.
-        .tarjeta.tarjeta--C02.p-4
+          p.text-center Los requisitos no deben contradecirse entre sí. Cada requisito debe ser coherente con los demás y con los objetivos generales del sistema.
+        .tarjeta.bg-02.p-4
           .row.justify-content-center.mb-3
             .col-lg-6.col-sm-4.col-6
-              img(src='@/assets/curso/tema3/img09.svg' alt='AvatarTop')
+              img(src='@/assets/curso/tema3/img09.svg' )
           h4.text-center Trazabilidad
-          p Cada requisito debe poder relacionarse con su origen, como una necesidad del usuario, una normativa o un objetivo del negocio. Asimismo, debe ser posible rastrear su relación con el diseño, el desarrollo y las pruebas del sistema.
-        .tarjeta.tarjeta--C02.p-4
+          p.text-center Cada requisito debe poder relacionarse con su origen, como una necesidad del usuario, una normativa o un objetivo del negocio. Asimismo, debe ser posible rastrear su relación con el diseño, el desarrollo y las pruebas del sistema.
+        .tarjeta.bg-02.p-4
           .row.justify-content-center.mb-3
             .col-lg-6.col-sm-4.col-6
-              img(src='@/assets/curso/tema3/img10.svg' alt='AvatarTop')
+              img(src='@/assets/curso/tema3/img10.svg' )
           h4.text-center Corrección o validez
-          p El requisito debe representar una necesidad real del usuario o del negocio. Para ello, se valida con los interesados del proyecto con el fin de confirmar que lo documentado corresponde a lo que realmente se necesita.
-        .tarjeta.tarjeta--C02.p-4
+          p.text-center El requisito debe representar una necesidad real del usuario o del negocio. Para ello, se valida con los interesados del proyecto con el fin de confirmar que lo documentado corresponde a lo que realmente se necesita.
+        .tarjeta.bg-02.p-4
           .row.justify-content-center.mb-3
             .col-lg-6.col-sm-4.col-6
-              img(src='@/assets/curso/tema3/img11.svg' alt='AvatarTop')
+              img(src='@/assets/curso/tema3/img11.svg' )
           h4.text-center Prioridad
-          p Los requisitos deben tener un nivel de importancia o prioridad definido, lo que permite organizar su implementación y facilitar la toma de decisiones durante el desarrollo del proyecto.
+          p.text-center Los requisitos deben tener un nivel de importancia o prioridad definido, lo que permite organizar su implementación y facilitar la toma de decisiones durante el desarrollo del proyecto.
     p.mb-0(data-aos="fade-down") La aplicación sistemática de estos criterios permite mejorar la calidad de la documentación de requisitos y asegurar que el sistema de <em>software</em> que se desarrolle responda de manera adecuada a las necesidades de los usuarios y de la organización.
     separador
     #t_3_2.titulo-segundo.color-acento-contenido(data-aos="flip-up")
@@ -115,7 +115,7 @@
           .row.justify-content-center.p-4(titulo="")
             .col-lg-5.order-lg-2.order-2
               h4 Entrevistas con usuarios y partes interesadas
-              p A través del diálogo directo con los usuarios o interesados del proyecto se verifica si los requisitos documentados reflejan adecuadamente sus necesidades y expectativas. Esta técnica permite aclarar dudas, ampliar información y validar la pertinencia de los requisitos definidos.
+              p A través del diálogo directo con los usuarios o interesados del proyecto, se verifica si los requisitos documentados reflejan adecuadamente sus necesidades y expectativas. Esta técnica permite aclarar dudas, ampliar información y validar la pertinencia de los requisitos definidos.
             .col-lg-7.col-10.order-lg-1.order-1.mb-lg-0.mb-4
               figure
                 img(src='@/assets/curso/tema3/img15.jpg')
@@ -159,7 +159,7 @@
             figure(data-aos="fade-right")
               img(src='@/assets/curso/tema3/img20.jpg')
           .col-lg-6.order-lg-2.order-2
-            p Las auditorías corresponden a evaluaciones formales que se realizan para verificar que los requisitos definidos cumplan con estándares, metodologías y lineamientos establecidos por la organización o por modelos de calidad de <em>software</em>. Generalmente son realizadas por personal independiente del equipo que elaboró los requisitos, con el fin de garantizar objetividad en la evaluación. Las auditorías permiten comprobar la trazabilidad de los requisitos, su correcta documentación y su alineación con los objetivos del proyecto.
+            p Las auditorías corresponden a evaluaciones formales que se realizan para verificar que los requisitos definidos cumplan con estándares, metodologías y lineamientos establecidos por la organización o por modelos de calidad de <em>software</em>. Generalmente, son realizadas por personal independiente del equipo que elaboró los requisitos, con el fin de garantizar objetividad en la evaluación. Las auditorías permiten comprobar la trazabilidad de los requisitos, su correcta documentación y su alineación con los objetivos del proyecto.
       .py-3.py-md-4(titulo="Prototipos")
         .row.justify-content-center.p-4
           .col-lg-6.col-10.order-lg-1.order-1.mb-lg-0.mb-4

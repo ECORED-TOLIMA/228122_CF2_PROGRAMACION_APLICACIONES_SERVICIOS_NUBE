@@ -29,14 +29,14 @@
           img(src='@/assets/curso/tema4/img08.svg')
       .col.col-lg-9.col-12.order-lg-1.order-2
         .cajon.cajon.C01.color-secundario.px-4.py-3.mb-4
-          p.mb-0(data-aos="fade-down") Los requisitos fijos corresponden a aquellas funcionalidades o características del sistema que han sido definidas desde el inicio del proyecto y que deben cumplirse obligatoriamente según lo establecido en el contrato. Estos requisitos no pueden modificarse fácilmente durante el proceso de desarrollo, ya que representan compromisos formales entre las partes. Generalmente se utilizan en proyectos con enfoques tradicionales de desarrollo, donde el alcance del sistema se define de manera detallada desde las etapas iniciales.
+          p.mb-0(data-aos="fade-down") Los requisitos fijos corresponden a aquellas funcionalidades o características del sistema que han sido definidas desde el inicio del proyecto y que deben cumplirse obligatoriamente según lo establecido en el contrato. Estos requisitos no pueden modificarse fácilmente durante el proceso de desarrollo, ya que representan compromisos formales entre las partes. Generalmente, se utilizan en proyectos con enfoques tradicionales de desarrollo, donde el alcance del sistema se define de manera detallada desde las etapas iniciales.
         p.mb-0 Por otro lado, los requisitos variables son aquellos que pueden ajustarse o modificarse durante el desarrollo del proyecto en función de nuevas necesidades, cambios en el entorno organizacional o retroalimentación de los usuarios. Este tipo de requisitos se gestiona mediante procedimientos de control de cambios previamente definidos en el contrato. Los requisitos variables son más comunes en proyectos que utilizan metodologías ágiles, donde se promueve la adaptación continua a las necesidades del cliente.
     .row.cajon.C02.justify-content-center.align-items-stretch.mb-4.p-4
       .row.justify-content-center.align-items-center.mb-4
         .col.col-lg-7.col-12.mb-lg-0.mb-3
-          p.mb-3(data-aos="fade-down") Ejemplo práctico: en el desarrollo de un sistema de gestión de reservas para un hotel, el contrato de <em>software</em> puede establecer diferentes tipos de requisitos.
+          p.mb-3(data-aos="fade-down") <b>Ejemplo práctico:</b> en el desarrollo de un sistema de gestión de reservas para un hotel, el contrato de <em>software</em> puede establecer diferentes tipos de requisitos.
           .tarjeta.tarjeta--blanca.px-4.py-2.mb-3
-            P.mb-0 <b>Requisitos fijos:</b>
+            P.mb-0 Requisitos fijos:
             ul.lista-ul.mb-3
               li.mb-0
                 i.lista-ul__vineta
@@ -60,7 +60,7 @@
             img(src='@/assets/curso/tema4/img10.svg')
         .col.col-lg-7.col-12.mb-lg-0.mb-3
           .tarjeta.tarjeta--blanca.px-4.py-2.mb-3
-            P.mb-0 <b>Requisitos variables:</b>
+            P.mb-0 Requisitos variables:
             ul.lista-ul.mb-3
               li.mb-0
                 i.lista-ul__vineta
@@ -163,7 +163,7 @@
       .col.col-lg-auto.col-8.col-md-4.order-lg-1.order-1.mb-lg-0.mb-3
         figure
           img(src='@/assets/curso/tema4/img14.svg')
-    p.mb-4(data-aos="fade-down") En la actualidad existen diversas herramientas utilizadas en la industria del <em>software</em> para apoyar la gestión de requisitos. Algunas de las más conocidas son:
+    p.mb-4(data-aos="fade-down") En la actualidad, existen diversas herramientas utilizadas en la industria del <em>software</em> para apoyar la gestión de requisitos. Algunas de las más conocidas son:
     .row.BG02.justify-content-center.align-items-center.px-3.mb-4(data-aos="flip-up")
       .col-lg-4.col-sm-4.col-5.order-lg-1.order-1.mb-lg-0.mb-4.d-none.d-lg-block
         figure
@@ -192,33 +192,40 @@
       h2 4.3 Tipos y características de herramientas de gestión de requisitos
     p(data-aos="fade-down") Las herramientas de gestión de requisitos pueden clasificarse en diferentes tipos según las funcionalidades que ofrecen, el tipo de proyecto en el que se utilizan y el enfoque metodológico que apoyan. Estas herramientas permiten organizar, documentar, analizar y dar seguimiento a los requisitos del sistema, facilitando la coordinación entre los distintos participantes del proyecto.
     p.mb-4(data-aos="fade-down") En términos generales, las herramientas de gestión de requisitos se pueden agrupar en los siguientes tipos:
-    .tarjeta.tarjeta--BG05.p-md-5.p-4.mb-4(data-aos="flip-up")
-      SlyderA(tipo="b")
-        .row.justify-content-center.p-4
-          .col-lg-6.order-lg-1.order-2
-            h4 Herramientas especializadas en gestión de requisitos
-            p Son herramientas diseñadas específicamente para la ingeniería de requisitos. Permiten registrar requisitos de forma estructurada, establecer relaciones de trazabilidad, gestionar versiones y controlar cambios en los requisitos del sistema. Estas herramientas suelen utilizarse en proyectos complejos o en organizaciones que desarrollan sistemas de gran escala.
-            p Ejemplos de este tipo de herramientas incluyen IBM Engineering Requirements Management DOORS y ReqView, que permiten administrar grandes volúmenes de requisitos y mantener un seguimiento detallado de su evolución durante el desarrollo del proyecto.
-          .col-lg-6.col-10.order-lg-2.order-1.mb-lg-0.mb-4
-            figure
-              img(src='@/assets/curso/tema4/img16.jpg')
-        .row.justify-content-center.p-4
-          .col-lg-6.order-lg-1.order-2
-            h4 Herramientas de gestión de proyectos con soporte para requisitos
-            p Son plataformas que, además de gestionar tareas, cronogramas y actividades del proyecto, incorporan funcionalidades para registrar y organizar requisitos, historias de usuario o funcionalidades del sistema. Estas herramientas son ampliamente utilizadas en equipos de desarrollo que trabajan con metodologías ágiles.
-            p Entre las más utilizadas se encuentran Jira <em>software</em> y Azure DevOps, que permiten administrar historias de usuario, <em>backlog</em> de producto, incidencias y seguimiento del desarrollo del <em>software</em>.
-          .col-lg-6.col-10.order-lg-2.order-1.mb-lg-0.mb-4
-            figure
-              img(src='@/assets/curso/tema4/img17.jpg')
-        .row.justify-content-center.p-4
-          .col-lg-6.order-lg-1.order-2
-            h4 Herramientas colaborativas de documentación
-            p Son plataformas que permiten crear, organizar y compartir documentación del proyecto de manera colaborativa. Aunque no están diseñadas exclusivamente para la gestión de requisitos, suelen utilizarse para documentar especificaciones, historias de usuario, manuales y otros artefactos relacionados con el desarrollo del <em>software</em>.
-            p Un ejemplo ampliamente utilizado es Confluence, que permite a los equipos documentar requisitos, mantener registros del proyecto y facilitar la comunicación entre los participantes.
-          .col-lg-6.col-10.order-lg-2.order-1.mb-lg-0.mb-4
-            figure
-              img(src='@/assets/curso/tema4/img18.jpg')
-    p.mb-4(data-aos="fade-down") Además de su clasificación por tipo, las herramientas de gestión de requisitos presentan una serie de características comunes que facilitan su uso dentro de los proyectos de desarrollo de <em>software</em>.
+
+    .row.bg-06
+      .col-12
+        .p-5
+          SlyderA.bg-05.p-4.bg-r8(tipo="b")
+            .row.justify-content-center.p-4
+              .col-lg-6.order-lg-1.order-2
+                h4 Herramientas especializadas en gestión de requisitos
+                p Son herramientas diseñadas específicamente para la ingeniería de requisitos. Permiten registrar requisitos de forma estructurada, establecer relaciones de trazabilidad, gestionar versiones y controlar cambios en los requisitos del sistema. Estas herramientas suelen utilizarse en proyectos complejos o en organizaciones que desarrollan sistemas de gran escala.
+                p Ejemplos de este tipo de herramientas incluyen IBM Engineering Requirements Management DOORS y ReqView, que permiten administrar grandes volúmenes de requisitos y mantener un seguimiento detallado de su evolución durante el desarrollo del proyecto.
+              .col-lg-6.col-10.order-lg-2.order-1.mb-lg-0.mb-4
+                figure
+                  img(src='@/assets/curso/tema4/img16.jpg')
+            .row.justify-content-center.p-4
+              .col-lg-6.order-lg-1.order-2
+                h4 Herramientas de gestión de proyectos con soporte para requisitos
+                p Son plataformas que, además de gestionar tareas, cronogramas y actividades del proyecto, incorporan funcionalidades para registrar y organizar requisitos, historias de usuario o funcionalidades del sistema. Estas herramientas son ampliamente utilizadas en equipos de desarrollo que trabajan con metodologías ágiles.
+                p Entre las más utilizadas se encuentran Jira <em>software</em> y Azure DevOps, que permiten administrar historias de usuario, <em>backlog</em> de producto, incidencias y seguimiento del desarrollo del <em>software</em>.
+              .col-lg-6.col-10.order-lg-2.order-1.mb-lg-0.mb-4
+                figure
+                  img(src='@/assets/curso/tema4/img17.jpg')
+            .row.justify-content-center.p-4
+              .col-lg-6.order-lg-1.order-2
+                h4 Herramientas colaborativas de documentación
+                p Son plataformas que permiten crear, organizar y compartir documentación del proyecto de manera colaborativa. Aunque no están diseñadas exclusivamente para la gestión de requisitos, suelen utilizarse para documentar especificaciones, historias de usuario, manuales y otros artefactos relacionados con el desarrollo del <em>software</em>.
+                p Un ejemplo ampliamente utilizado es Confluence, que permite a los equipos documentar requisitos, mantener registros del proyecto y facilitar la comunicación entre los participantes.
+              .col-lg-6.col-10.order-lg-2.order-1.mb-lg-0.mb-4
+                figure
+                  img(src='@/assets/curso/tema4/img18.jpg')
+
+  
+            
+
+    p.mb-4.mt-4(data-aos="fade-down") Además de su clasificación por tipo, las herramientas de gestión de requisitos presentan una serie de características comunes que facilitan su uso dentro de los proyectos de desarrollo de <em>software</em>.
     .row.justify-content-center.mb-4(data-aos="flip-up")
       .col.col-12
         .titulo-sexto.color-acento-contenido
@@ -236,7 +243,7 @@
                 td(data-aos="fade-down")(style="background-color: #F0F8FF") Permite registrar, organizar y clasificar los requisitos funcionales y no funcionales del sistema de forma ordenada.
               tr
                 td(data-aos="fade-down") Trazabilidad
-                td(data-aos="fade-down") Posibilita relacionar los requisitos con otros elementos del proyecto como casos de uso, diseño, desarrollo y pruebas.
+                td(data-aos="fade-down") Posibilita relacionar los requisitos con otros elementos del proyecto, como casos de uso, diseño, desarrollo y pruebas.
               tr
                 td(data-aos="fade-down")(style="background-color: #F0F8FF") Control de versiones
                 td(data-aos="fade-down")(style="background-color: #F0F8FF") Permite mantener un historial de cambios realizados en los requisitos a lo largo del proyecto.

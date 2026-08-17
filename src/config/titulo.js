@@ -1,2 +1,1 @@
-module.exports =
-  'Análisis, especificación y validación de requisitos de <em>software</em>.'
+module.exports = 'Análisis, requisitos, validación, trazabilidad, gestión'

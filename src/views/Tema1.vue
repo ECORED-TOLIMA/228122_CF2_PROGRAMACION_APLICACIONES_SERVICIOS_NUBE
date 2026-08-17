@@ -74,33 +74,33 @@
         .tarjeta.bg-02.p-4
           .row.justify-content-center.mb-3
             .col-lg-6.col-sm-4.col-6
-              img(src='@/assets/curso/tema1/img06.svg' alt='AvatarTop')
+              img(src='@/assets/curso/tema1/img06.svg' )
           h4.text-center Valor para el negocio
-          p Determina qué tan importante es el requisito para cumplir los objetivos del sistema o de la organización.
+          p.text-center Determina qué tan importante es el requisito para cumplir los objetivos del sistema o de la organización.
         .tarjeta.bg-02.p-4
           .row.justify-content-center.mb-3
             .col-lg-6.col-sm-4.col-6
-              img(src='@/assets/curso/tema1/img07.svg' alt='AvatarTop')
+              img(src='@/assets/curso/tema1/img07.svg' )
           h4.text-center Dependencias entre requisitos
-          p Algunos requisitos dependen de otros para poder implementarse, por lo que su prioridad puede verse influenciada por estas relaciones.
+          p.text-center Algunos requisitos dependen de otros para poder implementarse, por lo que su prioridad puede verse influenciada por estas relaciones.
         .tarjeta.bg-02.p-4
           .row.justify-content-center.mb-3
             .col-lg-6.col-sm-4.col-6
-              img(src='@/assets/curso/tema1/img08.svg' alt='AvatarTop')
+              img(src='@/assets/curso/tema1/img08.svg' )
           h4.text-center Impacto en el usuario
-          p Identifica qué funcionalidades aportan mayor beneficio o utilidad para los usuarios finales.
+          p.text-center Identifica qué funcionalidades aportan mayor beneficio o utilidad para los usuarios finales.
         .tarjeta.bg-02.p-4
           .row.justify-content-center.mb-3
             .col-lg-6.col-sm-4.col-6
-              img(src='@/assets/curso/tema1/img09.svg' alt='AvatarTop')
+              img(src='@/assets/curso/tema1/img09.svg' )
           h4.text-center Complejidad de implementación
-          p Analiza el nivel de esfuerzo técnico requerido para desarrollar el requisito.
+          p.text-center Analiza el nivel de esfuerzo técnico requerido para desarrollar el requisito.
         .tarjeta.bg-02.p-4
           .row.justify-content-center.mb-3
             .col-lg-6.col-sm-4.col-6
-              img(src='@/assets/curso/tema1/img10.svg' alt='AvatarTop')
+              img(src='@/assets/curso/tema1/img10.svg' )
           h4.text-center Riesgo del proyecto
-          p Ciertos requisitos pueden implicar mayores riesgos técnicos o de integración, por lo que pueden abordarse en etapas tempranas para reducir incertidumbres.
+          p.text-center Ciertos requisitos pueden implicar mayores riesgos técnicos o de integración, por lo que pueden abordarse en etapas tempranas para reducir incertidumbres.
     p.mb-4(data-aos="fade-down") Una de las técnicas más utilizadas para priorizar requisitos consiste en clasificarlos según su nivel de importancia.
     .row.justify-content-center.mb-4(data-aos="flip-up")
       .col.col-12
@@ -214,7 +214,7 @@
       )
       .bloque-texto-g__texto.p-4
         p La descomposición funcional es una técnica de análisis de requisitos que consiste en dividir un sistema o proceso complejo en funciones más pequeñas y manejables. Este enfoque permite comprender de manera organizada las actividades que debe realizar el sistema, facilitando la identificación de requisitos, la asignación de responsabilidades y la estructuración lógica de las funcionalidades.
-    p.mb-4(data-aos="fade-down") A través de la descomposición funcional se parte de una función general del sistema y se subdivide progresivamente en subfunciones o tareas específicas. Este proceso ayuda a clarificar el alcance del sistema, identificar dependencias entre procesos y facilitar el diseño posterior del <em>software</em>.
+    p.mb-4(data-aos="fade-down") A través de la descomposición funcional, se parte de una función general del sistema y se subdivide progresivamente en subfunciones o tareas específicas. Este proceso ayuda a clarificar el alcance del sistema, identificar dependencias entre procesos y facilitar el diseño posterior del <em>software</em>.
     .row.justify-content-center.mb-4
       .col.col-lg-10.col-12
         .cajon.cajon.C02.color-secundario.px-4.py-3
@@ -241,7 +241,7 @@
       .col-12
         figure.movil
           img(src='@/assets/curso/tema1/img15.svg', alt='En la figura 1 se presenta un mapa conceptual sobre la descomposición funcional en un sistema de gestión de biblioteca. La función principal es gestionar préstamos de libros, la cual se descompone en subfunciones como registrar usuario, consultar disponibilidad de libros, registrar préstamo en el sistema, registrar devolución y generar historial de préstamos.')
-    p.mb-0(data-aos="fade-down") En este esquema se presenta como una función principal se divide en funciones más específicas, lo que facilita comprender la estructura del sistema y definir con mayor precisión los requisitos funcionales.
+    p.mb-0(data-aos="fade-down") En este esquema se presenta cómo una función principal se divide en funciones más específicas, lo que facilita comprender la estructura del sistema y definir con mayor precisión los requisitos funcionales.
 
 </template>
 

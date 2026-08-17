@@ -1,7 +1,6 @@
 export default {
   global: {
-    Name:
-      'Análisis, especificación y validación de requisitos de <em>software</em>.',
+    Name: 'Análisis, requisitos, validación, trazabilidad, gestión',
     Description:
       'El componente formativo aborda los procesos relacionados con el análisis, la especificación, la validación y la gestión de requisitos de <em>software</em>. Se estudian técnicas que permiten identificar, documentar, evaluar y controlar los requisitos durante el desarrollo de un sistema, con el fin de asegurar que las soluciones tecnológicas respondan adecuadamente a las necesidades del usuario y del negocio.',
     imagenBannerPrincipal: require('@/assets/curso/portada/banner-principal.png'),

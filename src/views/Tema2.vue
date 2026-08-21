@@ -54,14 +54,14 @@
     p.mb-0(data-aos="fade-down") El uso de estos estándares permite que los equipos de desarrollo trabajen con documentos estructurados, comparables y fácilmente interpretables, lo que contribuye a mejorar la calidad del <em>software</em> y a reducir errores durante el proceso de desarrollo.
     separador
     #t_2_2.titulo-segundo.color-acento-contenido(data-aos="flip-up")
-      h2 2.2 Plantillas ERS (Especificación de Requisitos del <em>software</em>)
+      h2 2.2 Plantillas ERS (Especificación de Requisitos del <em>Software</em>)
     .row.justify-content-center.mb-4
       .col.col-lg-5.col-8.col-md-6.order-lg-1.order-1.mb-3.mb-lg-0
         figure
           img(src='@/assets/curso/tema2/img07.jpg')
       .col.col-lg-7.col-12.order-lg-2.order-2
         .cajon.cajon.C01.color-primario.px-4.py-3.mb-4
-          p.mb-0(data-aos="fade-down") Las plantillas de Especificación de Requisitos del <em>software</em> (ERS), son formatos estructurados utilizados para documentar de manera organizada todos los requisitos de un sistema de <em>software</em>. Su propósito es establecer una forma clara y uniforme de describir las necesidades del sistema, facilitando la comunicación entre analistas, desarrolladores, clientes y demás participantes del proyecto.
+          p.mb-0(data-aos="fade-down") Las plantillas de Especificación de Requisitos del <em>Software</em> (ERS), son formatos estructurados utilizados para documentar de manera organizada todos los requisitos de un sistema de <em>software</em>. Su propósito es establecer una forma clara y uniforme de describir las necesidades del sistema, facilitando la comunicación entre analistas, desarrolladores, clientes y demás participantes del proyecto.
         p.mb-0(data-aos="fade-down") Estas plantillas permiten registrar información relevante sobre el sistema, garantizando que los requisitos sean comprensibles, verificables y trazables a lo largo del ciclo de vida del desarrollo de <em>software</em>. Además, contribuyen a evitar ambigüedades y a mejorar la calidad de la documentación técnica.
     p.mb-4(data-aos="fade-down") Existen diferentes tipos de plantillas ERS que se utilizan según el enfoque metodológico o el estándar adoptado en el proyecto. Algunas de las más utilizadas son:
     .row.justify-content-center.mb-0(data-aos="flip-down")
@@ -93,13 +93,13 @@
           .row.align-items-center.BG01.px-4(data-aos="fade-down")
             .col-lg-4.d-none.d-lg-block
               figure(data-aos="zoom-in")
-                img(src="@/assets/curso/tema2/img16.png", alt="Imagen decorativa")
+                img(src="@/assets/curso/tema2/img16.png", alt="")
             .col-lg-8.p-5.py-0
               SlyderF.custom.color-acento-botones.p-4(columnas="col-lg-6 col-xl-6")
                 .tarjeta.tarjeta--slyder.p-4
                   .row.justify-content-center.mb-3
                     .col-6.col-lg-8
-                      img(src="@/assets/curso/tema2/img11.svg", alt="Imagen decorativa").img100.m-auto
+                      img(src="@/assets/curso/tema2/img11.svg", alt="").img100.m-auto
                   h5 I. Introducción
                   ul.lista-ul.mb-0
                     li.mb-0
@@ -114,7 +114,7 @@
                 .tarjeta.tarjeta--slyder.p-4
                   .row.justify-content-center.mb-3
                     .col-6.col-lg-8
-                      img(src="@/assets/curso/tema2/img12.svg", alt="Imagen decorativa").img100.m-auto
+                      img(src="@/assets/curso/tema2/img12.svg", alt="").img100.m-auto
                   h5 II. Descripción general del sistema
                   ul.lista-ul.mb-0
                     li.mb-0
@@ -129,7 +129,7 @@
                 .tarjeta.tarjeta--slyder.p-4
                   .row.justify-content-center.mb-3
                     .col-6.col-lg-8
-                      img(src="@/assets/curso/tema2/img13.svg", alt="Imagen decorativa").img100.m-auto
+                      img(src="@/assets/curso/tema2/img13.svg", alt="").img100.m-auto
                   h5 III. Requisitos específicos
                   ul.lista-ul.mb-0
                     li.mb-0
@@ -144,12 +144,12 @@
                 .tarjeta.tarjeta--slyder.p-4
                   .row.justify-content-center.mb-3
                     .col-6.col-lg-8
-                      img(src="@/assets/curso/tema2/img14.svg", alt="Imagen decorativa").img100.m-auto
+                      img(src="@/assets/curso/tema2/img14.svg", alt="").img100.m-auto
                   h5 IV. Restricciones del sistema
                 .tarjeta.tarjeta--slyder.p-4
                   .row.justify-content-center.mb-3
                     .col-6.col-lg-8
-                      img(src="@/assets/curso/tema2/img15.svg", alt="Imagen decorativa").img100.m-auto
+                      img(src="@/assets/curso/tema2/img15.svg", alt="").img100.m-auto
                   h5 V. Criterios de aceptación y validación
     p.mb-4(data-aos="fade-down") El uso de estas plantillas permite estandarizar la documentación de requisitos, facilitar su análisis y asegurar que todos los participantes del proyecto tengan una comprensión común de las funcionalidades y características que debe cumplir el sistema.
     .row.justify-content-center.mb-0

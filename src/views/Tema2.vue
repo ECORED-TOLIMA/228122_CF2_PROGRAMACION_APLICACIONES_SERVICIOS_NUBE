@@ -54,14 +54,14 @@
     p.mb-0(data-aos="fade-down") El uso de estos estándares permite que los equipos de desarrollo trabajen con documentos estructurados, comparables y fácilmente interpretables, lo que contribuye a mejorar la calidad del <em>software</em> y a reducir errores durante el proceso de desarrollo.
     separador
     #t_2_2.titulo-segundo.color-acento-contenido(data-aos="flip-up")
-      h2 2.2 Plantillas ERS (Especificación de Requisitos del <em>Software</em>)
+      h2 2.2 Plantillas ERS (Especificación de Requisitos del Software)
     .row.justify-content-center.mb-4
       .col.col-lg-5.col-8.col-md-6.order-lg-1.order-1.mb-3.mb-lg-0
         figure
           img(src='@/assets/curso/tema2/img07.jpg')
       .col.col-lg-7.col-12.order-lg-2.order-2
         .cajon.cajon.C01.color-primario.px-4.py-3.mb-4
-          p.mb-0(data-aos="fade-down") Las plantillas de Especificación de Requisitos del <em>Software</em> (ERS), son formatos estructurados utilizados para documentar de manera organizada todos los requisitos de un sistema de <em>software</em>. Su propósito es establecer una forma clara y uniforme de describir las necesidades del sistema, facilitando la comunicación entre analistas, desarrolladores, clientes y demás participantes del proyecto.
+          p.mb-0(data-aos="fade-down") Las plantillas de Especificación de Requisitos del Software (ERS), son formatos estructurados utilizados para documentar de manera organizada todos los requisitos de un sistema de <em>software</em>. Su propósito es establecer una forma clara y uniforme de describir las necesidades del sistema, facilitando la comunicación entre analistas, desarrolladores, clientes y demás participantes del proyecto.
         p.mb-0(data-aos="fade-down") Estas plantillas permiten registrar información relevante sobre el sistema, garantizando que los requisitos sean comprensibles, verificables y trazables a lo largo del ciclo de vida del desarrollo de <em>software</em>. Además, contribuyen a evitar ambigüedades y a mejorar la calidad de la documentación técnica.
     p.mb-4(data-aos="fade-down") Existen diferentes tipos de plantillas ERS que se utilizan según el enfoque metodológico o el estándar adoptado en el proyecto. Algunas de las más utilizadas son:
     .row.justify-content-center.mb-0(data-aos="flip-down")

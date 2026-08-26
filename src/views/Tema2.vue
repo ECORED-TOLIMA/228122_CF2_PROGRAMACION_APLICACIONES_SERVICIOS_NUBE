@@ -69,21 +69,21 @@
         .crd.crd--grayGrad
           .bottomCircle.mb-5
             figure
-              img(src="@/assets/curso/tema2/img08.svg", alt="alt").img80.m-auto
+              img(src="@/assets/curso/tema2/img08.svg").img80.m-auto
           h5.text-center Plantilla basada en el estándar IEEE 830
           p.text-center Ampliamente utilizada en proyectos tradicionales de desarrollo de <em>software</em>.
       .col-xl-4.col-lg-8.mb-4.mb-xl-5
         .crd.crd--grayGrad
           .bottomCircle.mb-5
             figure
-              img(src="@/assets/curso/tema2/img09.svg", alt="alt").img80.m-auto
+              img(src="@/assets/curso/tema2/img09.svg").img80.m-auto
           h5.text-center Plantilla basada en el estándar ISO/IEC/IEEE 29148
           p.text-center Que actualiza y amplía los lineamientos para la ingeniería de requisitos.
       .col-xl-4.col-lg-8.mb-4.mb-xl-5
         .crd.crd--grayGrad
           .bottomCircle.mb-5
             figure
-              img(src="@/assets/curso/tema2/img10.svg", alt="alt").img80.m-auto
+              img(src="@/assets/curso/tema2/img10.svg").img80.m-auto
           h5.text-center Plantillas simplificadas para metodologías ágiles
           p.text-center Que documentan requisitos mediante historias de usuario y criterios de aceptación.
     p.mb-4(data-aos="fade-down") En general, una plantilla ERS suele incluir las siguientes secciones principales:
